@@ -1,1 +1,1 @@
-# rocketseat-ignite-nodejs-chapter_III-rentx
+# rocketseat-ignite-nodejs-chapter_II-rentx
